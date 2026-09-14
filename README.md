@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chansonzhang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chansonzhang)](https://github.com/stats-organization/github-stats-extended)
