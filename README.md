@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![](https://github-stats-extended.vercel.app/api?username=chansonzhang&show_icons=true&include_all_commits=true&count_private=true&show=all_time_contribs,prs_commented,issues_commented&contribs_include_own_repos=false&rank_icon=github&hide_rank=true&hide=contribs)](https://github.com/chansonzhang)
+<p align="center">
+<a href="https://github.com/chansonzhang">
+  <img height="360em" src="https://github-stats-extended.vercel.app/api?username=chansonzhang&show_icons=true&include_all_commits=true&count_private=true&show=all_time_contribs,prs_commented,issues_commented&contribs_include_own_repos=false&rank_icon=github&hide_rank=true&hide=contribs"/>
+  <img height="360em" src="https://static.wikia.nocookie.net/pixar/images/a/a7/EVE.png/revision/latest?cb=20131115143452"/>
+</a>
+</p>
 
 
 
