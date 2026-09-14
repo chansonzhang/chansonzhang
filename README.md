@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/chansonzhang">
   <img height="280em" src="https://github-stats-extended.vercel.app/api?username=chansonzhang&show_icons=true&include_all_commits=true&count_private=true&show=all_time_contribs,prs_commented,issues_commented&contribs_include_own_repos=false&rank_icon=github&hide_rank=true&hide=contribs"/>
 </a>
-<a href="https://chansonzhang.github.io" target="_blank" rel="noopener noreferrer">
+<a href="https://chansonzhang.github.io/about" target="_blank" rel="noopener noreferrer">
   <img height="280em" src="https://static.wikia.nocookie.net/pixar/images/a/a7/EVE.png/revision/latest?cb=20131115143452"/>
 </a>
 </p>
